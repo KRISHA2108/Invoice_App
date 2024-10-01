@@ -1,12 +1,24 @@
-# invoice_genetator 
+# Invoice Generator App
 
+This Flutter application allows users to generate professional invoices with customizable company and customer details, products, taxes, discounts, and supervisor signatures. The app is designed to make invoice creation simple, efficient, and customizable.
+The Invoice Generator App is a Flutter-based tool that simplifies invoice creation by allowing users to input company and customer details, add products manually, apply taxes and discounts, and include a supervisor's signature. Users can preview the invoice in real-time and generate a professional PDF for easy sharing and printing. The app is ideal for businesses seeking a streamlined solution for generating and managing invoices efficiently.
+
+
+## Features
+
+- **Company Details:** Add and customize your company information, including company name, address, contact details, and logo.
+- **Customer Details:** Enter customer information such as name, address, and contact details for invoice personalization.
+- **Product Management:** Manually add products with details like name, quantity, price, and description.
+- **Tax and Discounts:** Apply different tax rates and discounts to the products and see real-time total calculation.
+- **Supervisor's Signature:** Add a supervisor's signature to the invoice for validation and professional presentation.
+- **Invoice Preview:** View a real-time preview of the invoice before finalizing.
+- **PDF Generation:** Generate and download the invoice as a PDF for easy sharing and printing.
 
 
 OUTPUT :
 
 
 <img src ="https://github.com/user-attachments/assets/2b1be9f3-5d24-4fa4-8ec9-c349875229ae" width="200px">
-
 <img src ="https://github.com/user-attachments/assets/dd5c9ae4-f9c2-4af1-8774-8417444372a5" width="200">
 <img src ="https://github.com/user-attachments/assets/727456af-8679-4561-8fdb-f401e196ab96" width="200">
 <img src ="https://github.com/user-attachments/assets/571b21b3-8f60-4457-8d85-bce1b227c2bd" width="200">
